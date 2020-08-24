@@ -1,0 +1,1 @@
+This is a simple Android Studio app with a text box and button that then display the input on another screen.
